@@ -1,4 +1,5 @@
--# Hi!
+ Hi!
+ 
 I'm Halidou, a Computer Science Engineer passionate about coding and building innovative solutions.
 
 #  Learning: 
@@ -10,5 +11,6 @@ I'm particularly interested in Web Development & Data related fields.
 Programming Languages: C, C++, PHP, JavaScript, Python, HTML, CSS.
 
 Frameworks: React, Angular, Node.js,Bootstrap.
+
 Databases: MySQL, PostgreSQL, MongoDB.
  
